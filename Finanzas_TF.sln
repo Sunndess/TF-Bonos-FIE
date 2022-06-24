@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{99427BFB-1F1B-40B4-8B9B-EA49B6F3722E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{4AA9D181-1B21-4EC7-A570-9BCDC47B9352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{5B2E0628-E44D-46D4-8EA5-E97F0CA1EF4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99427BFB-1F1B-40B4-8B9B-EA49B6F3722E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99427BFB-1F1B-40B4-8B9B-EA49B6F3722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99427BFB-1F1B-40B4-8B9B-EA49B6F3722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99427BFB-1F1B-40B4-8B9B-EA49B6F3722E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA9D181-1B21-4EC7-A570-9BCDC47B9352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA9D181-1B21-4EC7-A570-9BCDC47B9352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA9D181-1B21-4EC7-A570-9BCDC47B9352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA9D181-1B21-4EC7-A570-9BCDC47B9352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2E0628-E44D-46D4-8EA5-E97F0CA1EF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2E0628-E44D-46D4-8EA5-E97F0CA1EF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2E0628-E44D-46D4-8EA5-E97F0CA1EF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2E0628-E44D-46D4-8EA5-E97F0CA1EF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638AE775-24BA-49EF-946A-913507905824}
+	EndGlobalSection
+EndGlobal

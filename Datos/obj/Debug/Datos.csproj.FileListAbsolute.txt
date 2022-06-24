@@ -1,0 +1,30 @@
+F:\VARIOS\Finanzas_TF\Datos\bin\Debug\Datos.dll
+F:\VARIOS\Finanzas_TF\Datos\bin\Debug\Datos.pdb
+F:\VARIOS\Finanzas_TF\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+F:\VARIOS\Finanzas_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+F:\VARIOS\Finanzas_TF\Datos\obj\Debug\Datos.dll
+F:\VARIOS\Finanzas_TF\Datos\obj\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Datos\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Datos\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Datos\obj\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Datos\obj\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Datos\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Datos\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Datos\obj\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Datos\obj\Debug\Datos.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Datos\bin\Debug\Datos.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Datos\bin\Debug\Datos.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Datos\obj\Debug\Datos.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Datos\obj\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Datos\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Datos\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Datos\obj\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Datos\obj\Debug\Datos.pdb

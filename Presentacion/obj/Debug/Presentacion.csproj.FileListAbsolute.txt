@@ -1,0 +1,127 @@
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Login.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+F:\VARIOS\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe.config
+F:\VARIOS\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe
+F:\VARIOS\Finanzas_TF\Presentacion\bin\Debug\Presentacion.pdb
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.exe
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.pdb
+F:\VARIOS\Finanzas_TF\Presentacion\bin\Debug\Datos.dll
+F:\VARIOS\Finanzas_TF\Presentacion\bin\Debug\Negocio.dll
+F:\VARIOS\Finanzas_TF\Presentacion\bin\Debug\Datos.pdb
+F:\VARIOS\Finanzas_TF\Presentacion\bin\Debug\Negocio.pdb
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.RegistroInicio.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MFrances.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.formMenu.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAleman.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAmericano.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MPeruano.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Tutorial.resources
+F:\VARIOS\Finanzas_TF\Presentacion\obj\Debug\Presentacion.FDesarrolladores.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\bin\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.FDesarrolladores.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAleman.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAmericano.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.formMenu.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MFrances.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MPeruano.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.RegistroInicio.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Tutorial.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\bin\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.FDesarrolladores.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAleman.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAmericano.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.formMenu.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MFrances.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MPeruano.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.RegistroInicio.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Tutorial.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe.config
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\bin\Debug\Presentacion.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\bin\Debug\Datos.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\bin\Debug\Negocio.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\bin\Debug\Datos.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\bin\Debug\Negocio.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.FDesarrolladores.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Login.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAleman.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAmericano.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.formMenu.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MFrances.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MPeruano.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.RegistroInicio.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Tutorial.resources
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.exe
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\bin\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.FDesarrolladores.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAleman.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MAmericano.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.formMenu.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MFrances.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.MPeruano.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.RegistroInicio.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.Tutorial.resources
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Presentacion\obj\Debug\Presentacion.pdb

@@ -1,0 +1,45 @@
+F:\VARIOS\Finanzas_TF\Negocio\bin\Debug\Negocio.dll
+F:\VARIOS\Finanzas_TF\Negocio\bin\Debug\Negocio.pdb
+F:\VARIOS\Finanzas_TF\Negocio\bin\Debug\Datos.dll
+F:\VARIOS\Finanzas_TF\Negocio\bin\Debug\Datos.pdb
+F:\VARIOS\Finanzas_TF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\VARIOS\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\VARIOS\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\VARIOS\Finanzas_TF\Negocio\obj\Debug\Negocio.dll
+F:\VARIOS\Finanzas_TF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\bin\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\obj\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Finanzas_TF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\bin\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\obj\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Finanzas_TF\Negocio\obj\Debug\Negocio.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\bin\Debug\Negocio.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\bin\Debug\Negocio.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\bin\Debug\Datos.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\bin\Debug\Datos.pdb
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\obj\Debug\Negocio.dll
+F:\VARIOS\Finanzas_Trabajo\Versión 2 de junio\Finanzas_TF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\bin\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\bin\Debug\Datos.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\bin\Debug\Datos.pdb
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\obj\Debug\Negocio.dll
+C:\Users\sacfm\Desktop\CICLO VI\FINANZAS E ING. ECONÓMICA\Avances Trabajo Final\Version\Finanzas_TF\Negocio\obj\Debug\Negocio.pdb
