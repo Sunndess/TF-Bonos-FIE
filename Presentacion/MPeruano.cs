@@ -153,7 +153,6 @@ namespace Presentacion
             double TEA = Calculo_TEA(Convert.ToDouble(nudTasa.Value)) / 100;            
             double PERIODOS = Calculo_D_Periodos(ANIOS);
             double TEP = Calculo_Tasas_Periodos(Convert.ToDouble(nudTasa.Value)) / 100;
-            //double PAGUITO = (PRESTAMO * TEP) / (1 - Math.Pow(1 + TEP, -PERIODOS));
             double TASADESC = Convert.ToDouble(nudescuento.Value);
 
             // RESULTADOS
